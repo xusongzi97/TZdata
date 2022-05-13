@@ -136,9 +136,8 @@ proxy-groups:
       - github.com/freefq - 广东省广州市移动 4
       - github.com/freefq - 上海市电信CN2 5
       - github.com/freefq - 上海市电信CN2 6
-      - github.com/freefq - 美国  7
       - github.com/freefq - 上海市联通 8
-      - github.com/freefq - 澳大利亚  9
+
       - github.com/freefq - 广东省广州市移动 10
       - github.com/freefq - 上海市电信CN2 11
       - github.com/freefq - 上海市电信CN2 12
@@ -149,19 +148,19 @@ proxy-groups:
       - github.com/freefq - 美国DXC Technology 17
       - github.com/freefq - 上海市联通 18
       - github.com/freefq - 美国圣斯考拉斯蒂卡大学 19
-      - github.com/freefq - 亚太地区  20
+
       - github.com/freefq - 美国Microsoft数据中心 21
-      - github.com/freefq - 美国  22
+
       - github.com/freefq - 美国CloudFlare节点 23
       - github.com/freefq - 俄罗斯  24
       - github.com/freefq - 新加坡DigitalOcean数据中心 25
       - github.com/freefq - 英国伦敦Oracle云计算数据中心 26
-      - github.com/freefq - 美国  27
+
       - github.com/freefq - 美国CloudFlare公司CDN节点 28
       - github.com/freefq - 美国3COM公司企业网 29
       - github.com/freefq - 美国3COM公司企业网 30
-      - github.com/freefq - 美国  31
-      - github.com/freefq - 日本  32
+
+
       - github.com/freefq - 美国CloudFlare节点 33
       - github.com/freefq - 新加坡DigitalOcean数据中心 34
       - github.com/freefq - 美国CloudFlare公司CDN节点 35
@@ -172,11 +171,11 @@ proxy-groups:
       - github.com/freefq - 新加坡DigitalOcean数据中心 40
       - github.com/freefq - 澳大利亚悉尼Oracle云计算数据中心 41
       - github.com/freefq - 美国CloudFlare节点 42
-      - github.com/freefq - 美国  43
+
       - github.com/freefq - 美国圣斯考拉斯蒂卡大学 44
       - github.com/freefq - 美国亚利桑那州斯科茨代尔市Go Daddy集团公司 45
       - github.com/freefq - 美国德克萨斯州达拉斯Oracle(Zenedge) 46
-      - github.com/freefq - 伊朗  47
+
       - bulink自建免费10线 三网
       - bulink自建免费16线 三网
   - name: ♻️ 自动选择
@@ -192,9 +191,8 @@ proxy-groups:
       - github.com/freefq - 广东省广州市移动 4
       - github.com/freefq - 上海市电信CN2 5
       - github.com/freefq - 上海市电信CN2 6
-      - github.com/freefq - 美国  7
       - github.com/freefq - 上海市联通 8
-      - github.com/freefq - 澳大利亚  9
+
       - github.com/freefq - 广东省广州市移动 10
       - github.com/freefq - 上海市电信CN2 11
       - github.com/freefq - 上海市电信CN2 12
@@ -205,19 +203,19 @@ proxy-groups:
       - github.com/freefq - 美国DXC Technology 17
       - github.com/freefq - 上海市联通 18
       - github.com/freefq - 美国圣斯考拉斯蒂卡大学 19
-      - github.com/freefq - 亚太地区  20
+
       - github.com/freefq - 美国Microsoft数据中心 21
-      - github.com/freefq - 美国  22
+
       - github.com/freefq - 美国CloudFlare节点 23
       - github.com/freefq - 俄罗斯  24
       - github.com/freefq - 新加坡DigitalOcean数据中心 25
       - github.com/freefq - 英国伦敦Oracle云计算数据中心 26
-      - github.com/freefq - 美国  27
+
       - github.com/freefq - 美国CloudFlare公司CDN节点 28
       - github.com/freefq - 美国3COM公司企业网 29
       - github.com/freefq - 美国3COM公司企业网 30
-      - github.com/freefq - 美国  31
-      - github.com/freefq - 日本  32
+
+
       - github.com/freefq - 美国CloudFlare节点 33
       - github.com/freefq - 新加坡DigitalOcean数据中心 34
       - github.com/freefq - 美国CloudFlare公司CDN节点 35
@@ -228,11 +226,11 @@ proxy-groups:
       - github.com/freefq - 新加坡DigitalOcean数据中心 40
       - github.com/freefq - 澳大利亚悉尼Oracle云计算数据中心 41
       - github.com/freefq - 美国CloudFlare节点 42
-      - github.com/freefq - 美国  43
+
       - github.com/freefq - 美国圣斯考拉斯蒂卡大学 44
       - github.com/freefq - 美国亚利桑那州斯科茨代尔市Go Daddy集团公司 45
       - github.com/freefq - 美国德克萨斯州达拉斯Oracle(Zenedge) 46
-      - github.com/freefq - 伊朗  47
+
       - bulink自建免费10线 三网
       - bulink自建免费16线 三网
   - name: 🌍 国外媒体
@@ -248,9 +246,8 @@ proxy-groups:
       - github.com/freefq - 广东省广州市移动 4
       - github.com/freefq - 上海市电信CN2 5
       - github.com/freefq - 上海市电信CN2 6
-      - github.com/freefq - 美国  7
       - github.com/freefq - 上海市联通 8
-      - github.com/freefq - 澳大利亚  9
+
       - github.com/freefq - 广东省广州市移动 10
       - github.com/freefq - 上海市电信CN2 11
       - github.com/freefq - 上海市电信CN2 12
@@ -261,19 +258,19 @@ proxy-groups:
       - github.com/freefq - 美国DXC Technology 17
       - github.com/freefq - 上海市联通 18
       - github.com/freefq - 美国圣斯考拉斯蒂卡大学 19
-      - github.com/freefq - 亚太地区  20
+
       - github.com/freefq - 美国Microsoft数据中心 21
-      - github.com/freefq - 美国  22
+
       - github.com/freefq - 美国CloudFlare节点 23
       - github.com/freefq - 俄罗斯  24
       - github.com/freefq - 新加坡DigitalOcean数据中心 25
       - github.com/freefq - 英国伦敦Oracle云计算数据中心 26
-      - github.com/freefq - 美国  27
+
       - github.com/freefq - 美国CloudFlare公司CDN节点 28
       - github.com/freefq - 美国3COM公司企业网 29
       - github.com/freefq - 美国3COM公司企业网 30
-      - github.com/freefq - 美国  31
-      - github.com/freefq - 日本  32
+
+
       - github.com/freefq - 美国CloudFlare节点 33
       - github.com/freefq - 新加坡DigitalOcean数据中心 34
       - github.com/freefq - 美国CloudFlare公司CDN节点 35
@@ -284,11 +281,11 @@ proxy-groups:
       - github.com/freefq - 新加坡DigitalOcean数据中心 40
       - github.com/freefq - 澳大利亚悉尼Oracle云计算数据中心 41
       - github.com/freefq - 美国CloudFlare节点 42
-      - github.com/freefq - 美国  43
+
       - github.com/freefq - 美国圣斯考拉斯蒂卡大学 44
       - github.com/freefq - 美国亚利桑那州斯科茨代尔市Go Daddy集团公司 45
       - github.com/freefq - 美国德克萨斯州达拉斯Oracle(Zenedge) 46
-      - github.com/freefq - 伊朗  47
+
       - bulink自建免费10线 三网
       - bulink自建免费16线 三网
   - name: 📲 电报信息
@@ -303,9 +300,8 @@ proxy-groups:
       - github.com/freefq - 广东省广州市移动 4
       - github.com/freefq - 上海市电信CN2 5
       - github.com/freefq - 上海市电信CN2 6
-      - github.com/freefq - 美国  7
       - github.com/freefq - 上海市联通 8
-      - github.com/freefq - 澳大利亚  9
+
       - github.com/freefq - 广东省广州市移动 10
       - github.com/freefq - 上海市电信CN2 11
       - github.com/freefq - 上海市电信CN2 12
@@ -316,19 +312,19 @@ proxy-groups:
       - github.com/freefq - 美国DXC Technology 17
       - github.com/freefq - 上海市联通 18
       - github.com/freefq - 美国圣斯考拉斯蒂卡大学 19
-      - github.com/freefq - 亚太地区  20
+
       - github.com/freefq - 美国Microsoft数据中心 21
-      - github.com/freefq - 美国  22
+
       - github.com/freefq - 美国CloudFlare节点 23
       - github.com/freefq - 俄罗斯  24
       - github.com/freefq - 新加坡DigitalOcean数据中心 25
       - github.com/freefq - 英国伦敦Oracle云计算数据中心 26
-      - github.com/freefq - 美国  27
+
       - github.com/freefq - 美国CloudFlare公司CDN节点 28
       - github.com/freefq - 美国3COM公司企业网 29
       - github.com/freefq - 美国3COM公司企业网 30
-      - github.com/freefq - 美国  31
-      - github.com/freefq - 日本  32
+
+
       - github.com/freefq - 美国CloudFlare节点 33
       - github.com/freefq - 新加坡DigitalOcean数据中心 34
       - github.com/freefq - 美国CloudFlare公司CDN节点 35
@@ -339,11 +335,11 @@ proxy-groups:
       - github.com/freefq - 新加坡DigitalOcean数据中心 40
       - github.com/freefq - 澳大利亚悉尼Oracle云计算数据中心 41
       - github.com/freefq - 美国CloudFlare节点 42
-      - github.com/freefq - 美国  43
+
       - github.com/freefq - 美国圣斯考拉斯蒂卡大学 44
       - github.com/freefq - 美国亚利桑那州斯科茨代尔市Go Daddy集团公司 45
       - github.com/freefq - 美国德克萨斯州达拉斯Oracle(Zenedge) 46
-      - github.com/freefq - 伊朗  47
+
       - bulink自建免费10线 三网
       - bulink自建免费16线 三网
   - name: Ⓜ️ 微软服务
@@ -358,9 +354,8 @@ proxy-groups:
       - github.com/freefq - 广东省广州市移动 4
       - github.com/freefq - 上海市电信CN2 5
       - github.com/freefq - 上海市电信CN2 6
-      - github.com/freefq - 美国  7
       - github.com/freefq - 上海市联通 8
-      - github.com/freefq - 澳大利亚  9
+
       - github.com/freefq - 广东省广州市移动 10
       - github.com/freefq - 上海市电信CN2 11
       - github.com/freefq - 上海市电信CN2 12
@@ -371,19 +366,19 @@ proxy-groups:
       - github.com/freefq - 美国DXC Technology 17
       - github.com/freefq - 上海市联通 18
       - github.com/freefq - 美国圣斯考拉斯蒂卡大学 19
-      - github.com/freefq - 亚太地区  20
+
       - github.com/freefq - 美国Microsoft数据中心 21
-      - github.com/freefq - 美国  22
+
       - github.com/freefq - 美国CloudFlare节点 23
       - github.com/freefq - 俄罗斯  24
       - github.com/freefq - 新加坡DigitalOcean数据中心 25
       - github.com/freefq - 英国伦敦Oracle云计算数据中心 26
-      - github.com/freefq - 美国  27
+
       - github.com/freefq - 美国CloudFlare公司CDN节点 28
       - github.com/freefq - 美国3COM公司企业网 29
       - github.com/freefq - 美国3COM公司企业网 30
-      - github.com/freefq - 美国  31
-      - github.com/freefq - 日本  32
+
+
       - github.com/freefq - 美国CloudFlare节点 33
       - github.com/freefq - 新加坡DigitalOcean数据中心 34
       - github.com/freefq - 美国CloudFlare公司CDN节点 35
@@ -394,11 +389,11 @@ proxy-groups:
       - github.com/freefq - 新加坡DigitalOcean数据中心 40
       - github.com/freefq - 澳大利亚悉尼Oracle云计算数据中心 41
       - github.com/freefq - 美国CloudFlare节点 42
-      - github.com/freefq - 美国  43
+
       - github.com/freefq - 美国圣斯考拉斯蒂卡大学 44
       - github.com/freefq - 美国亚利桑那州斯科茨代尔市Go Daddy集团公司 45
       - github.com/freefq - 美国德克萨斯州达拉斯Oracle(Zenedge) 46
-      - github.com/freefq - 伊朗  47
+
       - bulink自建免费10线 三网
       - bulink自建免费16线 三网
   - name: 🍎 苹果服务
@@ -413,9 +408,8 @@ proxy-groups:
       - github.com/freefq - 广东省广州市移动 4
       - github.com/freefq - 上海市电信CN2 5
       - github.com/freefq - 上海市电信CN2 6
-      - github.com/freefq - 美国  7
       - github.com/freefq - 上海市联通 8
-      - github.com/freefq - 澳大利亚  9
+
       - github.com/freefq - 广东省广州市移动 10
       - github.com/freefq - 上海市电信CN2 11
       - github.com/freefq - 上海市电信CN2 12
@@ -426,19 +420,19 @@ proxy-groups:
       - github.com/freefq - 美国DXC Technology 17
       - github.com/freefq - 上海市联通 18
       - github.com/freefq - 美国圣斯考拉斯蒂卡大学 19
-      - github.com/freefq - 亚太地区  20
+
       - github.com/freefq - 美国Microsoft数据中心 21
-      - github.com/freefq - 美国  22
+
       - github.com/freefq - 美国CloudFlare节点 23
       - github.com/freefq - 俄罗斯  24
       - github.com/freefq - 新加坡DigitalOcean数据中心 25
       - github.com/freefq - 英国伦敦Oracle云计算数据中心 26
-      - github.com/freefq - 美国  27
+
       - github.com/freefq - 美国CloudFlare公司CDN节点 28
       - github.com/freefq - 美国3COM公司企业网 29
       - github.com/freefq - 美国3COM公司企业网 30
-      - github.com/freefq - 美国  31
-      - github.com/freefq - 日本  32
+
+
       - github.com/freefq - 美国CloudFlare节点 33
       - github.com/freefq - 新加坡DigitalOcean数据中心 34
       - github.com/freefq - 美国CloudFlare公司CDN节点 35
@@ -449,11 +443,11 @@ proxy-groups:
       - github.com/freefq - 新加坡DigitalOcean数据中心 40
       - github.com/freefq - 澳大利亚悉尼Oracle云计算数据中心 41
       - github.com/freefq - 美国CloudFlare节点 42
-      - github.com/freefq - 美国  43
+
       - github.com/freefq - 美国圣斯考拉斯蒂卡大学 44
       - github.com/freefq - 美国亚利桑那州斯科茨代尔市Go Daddy集团公司 45
       - github.com/freefq - 美国德克萨斯州达拉斯Oracle(Zenedge) 46
-      - github.com/freefq - 伊朗  47
+
       - bulink自建免费10线 三网
       - bulink自建免费16线 三网
   - name: 🎯 全球直连
@@ -485,9 +479,8 @@ proxy-groups:
       - github.com/freefq - 广东省广州市移动 4
       - github.com/freefq - 上海市电信CN2 5
       - github.com/freefq - 上海市电信CN2 6
-      - github.com/freefq - 美国  7
       - github.com/freefq - 上海市联通 8
-      - github.com/freefq - 澳大利亚  9
+
       - github.com/freefq - 广东省广州市移动 10
       - github.com/freefq - 上海市电信CN2 11
       - github.com/freefq - 上海市电信CN2 12
@@ -498,19 +491,19 @@ proxy-groups:
       - github.com/freefq - 美国DXC Technology 17
       - github.com/freefq - 上海市联通 18
       - github.com/freefq - 美国圣斯考拉斯蒂卡大学 19
-      - github.com/freefq - 亚太地区  20
+
       - github.com/freefq - 美国Microsoft数据中心 21
-      - github.com/freefq - 美国  22
+
       - github.com/freefq - 美国CloudFlare节点 23
       - github.com/freefq - 俄罗斯  24
       - github.com/freefq - 新加坡DigitalOcean数据中心 25
       - github.com/freefq - 英国伦敦Oracle云计算数据中心 26
-      - github.com/freefq - 美国  27
+
       - github.com/freefq - 美国CloudFlare公司CDN节点 28
       - github.com/freefq - 美国3COM公司企业网 29
       - github.com/freefq - 美国3COM公司企业网 30
-      - github.com/freefq - 美国  31
-      - github.com/freefq - 日本  32
+
+
       - github.com/freefq - 美国CloudFlare节点 33
       - github.com/freefq - 新加坡DigitalOcean数据中心 34
       - github.com/freefq - 美国CloudFlare公司CDN节点 35
@@ -521,11 +514,11 @@ proxy-groups:
       - github.com/freefq - 新加坡DigitalOcean数据中心 40
       - github.com/freefq - 澳大利亚悉尼Oracle云计算数据中心 41
       - github.com/freefq - 美国CloudFlare节点 42
-      - github.com/freefq - 美国  43
+
       - github.com/freefq - 美国圣斯考拉斯蒂卡大学 44
       - github.com/freefq - 美国亚利桑那州斯科茨代尔市Go Daddy集团公司 45
       - github.com/freefq - 美国德克萨斯州达拉斯Oracle(Zenedge) 46
-      - github.com/freefq - 伊朗  47
+
       - bulink自建免费10线 三网
       - bulink自建免费16线 三网
 rules:
